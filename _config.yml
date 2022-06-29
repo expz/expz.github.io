@@ -76,7 +76,6 @@ author:
   location         : "San Francisco, California, USA"
   map              : "https://goo.gl/maps/iwfHiRhdEpiCED1s6"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=kpfbac8AAAAJ"
   email            : "jskowera@gmail.com"
   uri              :
   bitbucket        :
@@ -91,10 +90,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4616-6703"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/2298174/expz"
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"

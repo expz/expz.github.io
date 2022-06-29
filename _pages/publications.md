@@ -13,8 +13,8 @@ _Proc. Amer. Math. Soc._, __141__, 1933--1937 (2013).
 
 ## [Motivic decomposition for relative geometrically cellular stacks](/files/cell-stacks.pdf)
 
-With [Utsav Choudhury](http://www.iiserkol.ac.in/people/faculty/dms/utsav-choudhury), _Communications in Algebra_, __44__, 648--655 (2016).
+With [Utsav Choudhury](http://utsavchoudhury.weebly.com/research-and-publication.html), _Communications in Algebra_, __44__, 648--655 (2016).
 
-## [Proper pushforward of integral cycles on algebraic stacks](/files/stacks-pp.pdf)
+## [Appendix to Chow rings of stacks of prestable curves I](https://arxiv.org/abs/2012.09887)
 
-Preprint (2012).
+With [Younghan Bae](https://people.math.ethz.ch/~baeyo/) and [Johannes Schmitt](https://johannesschmitt.gitlab.io/), _Forum of Mathematics, Sigma_, Volume 10, e28 (2022).
